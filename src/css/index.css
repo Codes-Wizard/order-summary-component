@@ -84,6 +84,7 @@ main {
     flex-direction: column;
     height: 40px;
     box-sizing: border-box;
+    justify-content: space-around;
 }
 
 .part > p > span {
